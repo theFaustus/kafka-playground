@@ -1,0 +1,2 @@
+# kafka-playground
+Exploring Kafka
